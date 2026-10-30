@@ -7,7 +7,7 @@ This is a basic "Hello World" that I used to start learning Kotlin
 I'm creating this for the purpose of learning Kotlin.
 
 Future YouTube demo video.
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/IQzqBswNOgc)
 
 # Development Environment
 The tools used are JDK 25 LTS and IntelliJ IDEA 2026.2.3
